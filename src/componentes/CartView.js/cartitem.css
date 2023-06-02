@@ -1,0 +1,107 @@
+
+
+.view-container{
+    
+    background-color: white;
+    height: 80%
+}
+.cart-item-container{
+
+    height: 300px;
+    display: flex;
+    background-color: white;
+    border: .5px solid #71869d ;
+    justify-content: space-evenly;
+    align-items: center;
+    color: #586f61;
+}
+
+
+.cart-item-container img{
+    
+    height: 200px;
+    width: 200px;
+    
+}
+
+
+.cart-item-container button{
+    color: white;
+    background-color:  #71869d;
+    border: .5px solid #586f61;
+    border-radius: 15px;
+    width: 130px;
+    padding: 15px 20px;
+    font-size: 15px;
+}
+
+.cart-item-container button:hover{
+    cursor: pointer;
+    border: 1px solid #586f61;
+    background-color: white;
+    transition: background-color 1s ease;
+    outline: 0;
+    color: #586f61;
+}
+
+.cart-container{
+    background-color: white;
+    height: 80vh;
+    display: flex;
+    padding: 100px;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+
+.cart-container h1{
+    color: #586f61;
+}
+
+.button-volver {
+    color: white;
+    background-color:  #71869d;
+    border: .5px solid #586f61;
+    border-radius: 15px;
+    width: 130px;
+    padding: 15px 20px;
+    font-size: 15px;
+    cursor: pointer;;
+}
+
+.preciototal-container{
+    padding-top: 40px;
+    padding-bottom: 300px;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-content: center !important;
+
+}
+
+.preciototal-container h4 {
+    color: #71869d;
+    margin: 10px;
+    font-family: Monument Grotesk,Helvetica Neue,Arial,sans-serif;
+}
+
+
+.boton-total{
+    margin: 20px;
+    color: white;
+    padding: 15px;
+    background-color:  #586f61;
+    border: .5px solid #586f61;
+    border-radius: 15px;
+    font-size: 15px;
+}
+
+.boton-total:hover{
+    cursor: pointer;
+    border: 1px solid #586f61;
+    background-color: white;
+    transition: background-color 1s ease;
+    outline: 0;
+    color: #586f61;
+}

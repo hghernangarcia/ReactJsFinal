@@ -1,0 +1,41 @@
+.footer-links {
+  height: 200px;
+  background-color: #71869d;
+  border: 1px solid #71869d;
+  padding: 20px;
+  
+}
+
+.footer-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 60px;
+}
+
+.footer-container ul h1 {
+  font-size: 20px;
+}
+
+.footer-container ul {
+  font-size: 10px;
+  margin: 0 auto;
+}
+
+.footer-container ul li {
+  list-style: none;
+  line-height: 2;
+}
+
+.footer-container ul li a {
+  color: #75245e;
+  text-decoration: none;
+}
+
+.footer-container p {
+    color: white;
+}
+
+h1{
+    color: white;
+    cursor: pointer;
+}
