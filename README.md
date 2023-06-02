@@ -1,9 +1,9 @@
 
 
 
-# Ecommerce React Gonzalo Cortez - Coderhouse
+# Ecommerce React Hernán García - Coderhouse
 
-Soy Gonzalo. Este es mi proyecto final para el curso de ReactJS en CoderHouse.
+Soy Hernán. Este es mi proyecto final para el curso de ReactJS en CoderHouse.
 La base del proyecto es un ecommerce de tejidos para niños, que lo disfrutes!
 
 ## Capturas
@@ -25,20 +25,13 @@ La base del proyecto es un ecommerce de tejidos para niños, que lo disfrutes!
 
 ## Datos
 
-* **Estudiante:** Gonzalo Cortez
+* **Estudiante:** Hernán García
 
-* **LinkedIn:** https://www.linkedin.com/in/gonzalo-cortez-20b5a2160/
+* **LinkedIn:** https://www.linkedin.com/in/garcia-hernan-20b5a2160/
 
-* **GitHub:** https://github.com/deimovvv
+* **GitHub:** https://github.com/hernandgarcia
 
 
-* **Curso:** React / Coderhouse
-
-* **Comisión:** 31160
-
-* **Profesor:** Adrián Escalante
-
-* **Tutor:** Andres Pujol
 
 
 * **Puedes ver el Proyecto en Vercel:  https://lemons-gamma.vercel.app/ ** 
